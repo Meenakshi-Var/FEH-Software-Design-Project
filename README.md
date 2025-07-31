@@ -21,12 +21,11 @@ This project was developed by a team of three engineering honors students. We co
 ## 🛠️ Built With
 
 - **Language**: C++
-- **Graphics**: Custom rendering using SFML (or specify your graphics library)
-- **Tools**: Git, GitHub, Visual Studio / VS Code
+- **Tools**: Git, GitHub, VS Code
 
 ## 🏆 Awards & Recognition
 
-- 🥇 **1st Place**, FEH Software Design Project (Spring 2024)
+- 🥇 **1st In Class**, FEH Software Design Project (Spring 2024)
 - 📣 Presented at the **Engineering Honors Showcase** to 200+ attendees
 
 ## 📂 Directory Structure
